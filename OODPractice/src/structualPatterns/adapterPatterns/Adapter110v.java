@@ -1,5 +1,5 @@
 package structualPatterns.adapterPatterns;
-// Adapter class
+// adapter
 // class adapter
 public class Adapter110v extends OriginOutput implements Target{
     @Override

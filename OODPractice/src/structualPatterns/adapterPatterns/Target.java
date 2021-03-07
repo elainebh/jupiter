@@ -1,5 +1,5 @@
 package structualPatterns.adapterPatterns;
-// The adapter
+// target
 public interface Target {
     public void convent110vTo220v();
 }
